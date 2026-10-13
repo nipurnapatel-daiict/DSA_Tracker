@@ -107,10 +107,10 @@ CORE_CSS = """
     }
 
     .dashboard-wrapper {
-        width: 90%;
-        max-width: 1200px;
+        width: 82%;
+        max-width: 950px;
         margin: 0 auto;
-        padding: 0 20px;
+        padding: 0 32px;
     }
 
     /* Header */
