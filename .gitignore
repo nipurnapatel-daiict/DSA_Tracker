@@ -1,0 +1,14 @@
+# Project specific folders
+data/
+
+# Python Virtual Environment
+dsa-env/
+.venv/
+venv/
+ENV/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
